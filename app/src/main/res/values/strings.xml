@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Arduino PullUp Counter</string>
+    <string name="start">start the pull-ups</string>
+    <string name="button">Button</string>
+    <string name="button2">Stop</string>
+    <string name="connect_to_bluetooth">connect to bluetooth</string>
+    <string name="getcount">getcount</string>
+    <string name="stop">Stop</string>
+</resources>
